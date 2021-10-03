@@ -24,5 +24,9 @@
     "mysql2": "^2.3.0",
     "nodemon": "^2.0.13",
     "sequelize": "^6.6.5"
+  },
+  "proxy": "http://localhost:5000",
+  "devDependencies": {
+    "eslint-config-react": "^1.1.7"
   }
 }
